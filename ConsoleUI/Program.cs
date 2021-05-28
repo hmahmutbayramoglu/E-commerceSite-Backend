@@ -10,6 +10,7 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
 
+            //Meneger :)
             ProductMeneger productMeneger = new ProductMeneger(new EfProductDal());
 
 
